@@ -1,3 +1,0 @@
-sanity/sanity.dict sanity/sanity.in sanity/sanity.ref
-binary_edge/binary_edge.dict ../philphix ../philphix
-long_words_test/long_words_test.dict long_words_test/long_words_test.in long_words_test/long_words_test.ref
