@@ -1,0 +1,3 @@
+lui t0, 0x110ff
+lui s0, 0x000ff
+lui s1, 0x28 # 40
